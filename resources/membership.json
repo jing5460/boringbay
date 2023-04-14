@@ -187,5 +187,12 @@
 		"name": "澪度の博客",
 		"description": "可能会随便写点什么",
 		"github_username": "lingdu2333"
+	},
+        "30": {
+		"domain": "hit.youtd.cc",
+		"icon": "https://wall.youtd.cc/Poco/5460.png",
+		"name": "一只鱼",
+		"description": "輕談淺晿゛",
+		"github_username": "jing5460"	
 	}
 }
